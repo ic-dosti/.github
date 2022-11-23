@@ -12,6 +12,3 @@ Also, together with the Kәsіpkor holding, with the support of the Ministry of 
 - 👨‍🏫 Design of educational complexes and methodological instructions to the educational process, systematization of STEM education in the Republic of Kazakhstan;
 - 📟 The design and production department, the purpose of which is the release of independent products based on ARM, AVR and other hardware platforms in combination with the development of the methodology of presentation in the target institution;
 - 🧪 Research Department operating at a special center of competencies aimed at stimulating scientific progress and advanced research in the field of hardware and software development
-
-# Contacts
-+ hello
