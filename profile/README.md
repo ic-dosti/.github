@@ -5,6 +5,8 @@ The DOSTI Innovation Center is a partner and sponsor of the WorldSkills and Juni
 
 Also, together with the Kaesіpkor holding, with the support of the Ministry of Education and Science of the Republic of Kazakhstan, is involved in the development of a program for teaching robotics in institutions of secondary special and general education of the Republic of Kazakhstan.
 
+Experimental blog about our life, work and workflow
+
 # Our activities and goals
 - 🏫 Educational courses for robotics, electronic and embedded systems in various age categories based on STmicroelectronics STMM32, Studica VMX Pi, myRIO and others hardware platform;
 - 🏆 Organization and conduct of internal, district, regional and national championships on engineering and computer compents;
