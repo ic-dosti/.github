@@ -1,0 +1,60 @@
+Лекция 101. Введение в программирование
+AI100 - Основы искусственного интеллекта на Python
+AI200 - Основы машинного обучения на Python
+AI300 - Основы компьютерного зрения на OpenCV
+AI400 - Основы анализа данных на Python и Scala
+AI900 - Разработка систем автоматизированного управления с помощью технического зрения
+CG100 - Разработка компьютерной графики на Unreal Engine 5
+CG110 - Разработка компьютерных игр на Unreal Engine 5
+HW100 - Разработка встраиваемых систем на базе Arduino
+HW700 - Разработка встраиваемых систем на базе STM32
+HW710 - Низкоуровневое программирование встраиваемых систем на базе STM32
+HW900 - Архитектура цифровых устройств на базе FPGA
+HW910 - Разработка встраиваемых систем на базе FPGA
+HW920 - Экспериментальная разработка цифровых устройств на базе FPGA
+HW930 - Разработка систем аппаратной и сетевой информационной безопасности на базе FPGA
+HW940 - Разработка аппаратных систем искусственного интеллекта на базе FPGA
+IS100 - Аппаратная безопасность и reverse engineering
+IS110 - Безопасность встраиваемых систем
+IS200 - Безопасность систем телекоммуникаций и связи
+NT100 - Основы компьютерных сетей
+SW100 - Операционная система Unix
+SW110 - Операционные системы и низкоуровневое программирование
+SW200 - Системное программирование на FASM
+SW300 - Системное программирование на Rust
+SW400 - Системное программирование на C
+SW500 - Прикладное программирование на C++
+SW510 - Разработка программного обеспечения для Windows и Linux с помощью Qt и C++
+SW600 - Прикладное программирование на C#
+SW610 - Разработка программного обеспечения для Windows с помощью WinUI и C#
+SW700 - Функциональное программирование на Haskell и Scala
+SW800 - Разработка веб-сервисов (Frontend)
+SW810 - Разработка веб-сервисов (Backend)
+SW900 - Разработка Android-приложений
+
+
+
+
+
+
+Глава 1. Введение в архитектуру STM32F103
+Глава 2. Введение в технологию программирования на языке C/C++
+Глава 3. Программирование на языке Ассемблера
+3.1. Настройка проекта - https://narodstream.ru/stm-urok-201-assembler-pervyj-proekt-komandy-mov-ldr-str-b-chast-1/
+3.2. Команды MOV, LDR, STR, B - https://narodstream.ru/stm-urok-201-assembler-pervyj-proekt-komandy-mov-ldr-str-b-chast-1/ и https://narodstream.ru/stm-urok-201-assembler-pervyj-proekt-komandy-mov-ldr-str-b-chast-2/
+3.3. Команды BX, BL, SUB. Флаги и условия - https://narodstream.ru/stm-urok-202-assembler-migayushhij-svetodiod-komandy-bx-bl-sub-flagi-usloviya/
+3.4. Стек и RCC - https://narodstream.ru/stm-urok-203-assembler-rcc-stek-novye-komandy-chast_1/ и https://narodstream.ru/stm-urok-203-assembler-rcc-stek-novye-komandy-chast_2/
+3.5. Прерывания и SysTick - https://narodstream.ru/stm-urok-204-assembler-systick-preryvaniya/
+3.6. Таймеры и табличные переходы - https://narodstream.ru/stm-urok-205-assembler-tajmery-tablichnye-perexody/
+
+
+Глава 1. Основы дискретной математики
+Глава 2. Проектирование последовательных и комбинационных логических элементов (Logisim)
+Глава 3. Проектирование цифровых функциональных узлов (Logisim)
+Глава 4. Введение в архитектуру и микроархитектуру
+Глава 5. Введение в язык описания аппаратуры Verilog
+Глава 6. Проектируем 8 битный RISC-процессор
+https://russianblogs.com/article/2342541615/#GitHub_1054
+https://github.com/liuqidev/8-bits-RISC-CPU-Verilog
+Глава 7. Проектируем микросхемы промышленного стандарта:
+https://habr.com/ru/company/ruvds/blog/591275/
