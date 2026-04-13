@@ -1,4 +1,4 @@
-### Us goals is - provides a wide range of areas in the field of robotics for training and individual development
+### Us goals is - provides a wide range of areas in the engineering for training and individual development
 
 #### Abouts us
 DOSTI Innovation Center is a partner and sponsor of the WorldSkills and Juniorskills global movement. This movement is aimed at raising the prestige of working professions.
